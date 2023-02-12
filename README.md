@@ -17,3 +17,4 @@ Within this inner loop, the subprocess name is written to the console using Writ
 
 The script will repeat the process of retrieving subprocesses and displaying their names for each DLL process in the $processes list, until all processes have been processed
 
+![Screenshot 2023-02-12 095052](https://user-images.githubusercontent.com/76062472/218299912-b5d21f89-7432-4342-b877-1dd2d1d1b4c6.png)
